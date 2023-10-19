@@ -615,3 +615,57 @@ public class SimulacaoJogoDados {
 }
 */
 
+/*
+public class Professor {
+    private double altura;
+    private double peso;
+    private int idade;
+
+    public Professor(double altura, double peso, int idade) {
+        this.altura = altura;
+        this.peso = peso;
+        this.idade = idade;
+    }
+
+    public void lecionar() {
+        System.out.println("O professor está lecionando.");
+    }
+}
+
+// Classe Thor
+public class Thor {
+    private int forca;
+    private int poder;
+    private int raio;
+
+    public Thor(int forca, int poder, int raio) {
+        this.forca = forca;
+        this.poder = poder;
+        this.raio = raio;
+    }
+
+    public void soltarRaio() {
+        System.out.println("Thor está soltando um raio com poder de " + raio);
+    }
+}
+
+// Classe Quadro
+public class Quadro {
+    private String tinta;
+    private String desenho;
+    private String cor;
+
+    public Quadro(String tinta, String desenho, String cor) {
+        this.tinta = tinta;
+        this.desenho = desenho;
+        this.cor = cor;
+    }
+
+    public void expressar() {
+        System.out.println("O quadro está expressando um desenho com tinta " + tinta + ", na cor " + cor + ": " + desenho);
+    }
+}
+*/
+
+
+
